@@ -1,0 +1,44 @@
+html,
+body {                                                                                                          
+	color: #932432;
+	margin: 20px;
+	padding: 0px;
+	background: #e2e9f6;
+}
+h1 {
+	font-family: brush Script MT, Brush Script Std, cursive;
+	font-size: 40px; 
+	font-style: italic; 
+	font-weight: 90; 
+	color: #3C1874;
+	line-height: 300%;
+	background: white;
+	padding: 0px;
+	text-align: center;
+	}
+h2 { font-family: brush Script MT, Brush Script Std, cursive;
+	color: #3c1874;
+	font-size: 20px;
+	text-align: right;
+	background: white;
+	padding: 10px; 
+}
+
+h3 {text-align: right; }
+
+p {
+	font-family: brush Script MT, Brush Script Std, cursive;
+	color: #3c1874;
+	font-size: 30px;
+	text-align: center;
+	background: white;
+	padding: 20px;
+	font-weight: 7;
+	}
+
+.center {
+	display: block;
+	margin-left: auto;
+	marfin-right: auto;
+	width: 25%; 
+}
